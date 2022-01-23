@@ -4,7 +4,7 @@
 
 Google News used to display all the google news content in the form  of tableview inside Application 
 
-Project Follows MVVVM Design Pattern.
+Project Follows MVVM Design Pattern.
 Also includes webapi response Testcase.
 
 # Prerequisites
